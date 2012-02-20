@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nuclearw.laserpointer.LaserPointer</groupId>
     <artifactId>LaserPointer</artifactId>
-    <version>0.2</version>
+    <version>0.3</version>
     <name>LaserPointer</name>
     <url>https://github.com/NuclearW/LaserPointer</url>
     <issueManagement>
