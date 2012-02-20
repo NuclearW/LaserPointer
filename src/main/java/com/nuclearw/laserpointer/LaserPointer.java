@@ -1,4 +1,4 @@
-package sl.nuclearw.laserpointer;
+package com.nuclearw.laserpointer;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedWriter;

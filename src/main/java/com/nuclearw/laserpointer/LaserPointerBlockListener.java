@@ -1,4 +1,4 @@
-package sl.nuclearw.laserpointer;
+package com.nuclearw.laserpointer;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
