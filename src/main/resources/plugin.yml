@@ -1,0 +1,18 @@
+name: LaserPointer
+main: com.nuclearw.laserpointer.LaserPointer
+version: ${project.version}
+author: NuclearW
+description: LaserPointer allows you to look anywhere aim a moving block for others to see
+commands:
+   point:
+      description: Toggle on/off your laser pointer.
+      usage: |
+         /<command>
+permissions:
+    laserpointer.*:
+        description: Alias of laserpointer.point
+        children:
+            laserpointer.point: true
+    laserpointer.point:
+        description: Allows you to use the /point command
+        default: op

@@ -1,0 +1,7 @@
+== LaserPointer
+
+LaserPointer allows you to look anywhere aim a moving block for others to see
+
+=== Compiling
+
+Maven 3 is required to compile LaserPointer
